@@ -22,3 +22,8 @@ Afterwards enter the following command to build and install dmenu
 Running dmenu
 -------------
 See the man page for details.
+
+Applied Patches
+-------------
+* dmenu-navhistory-4.6
+* dmenu-border-4.9
